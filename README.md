@@ -1,16 +1,23 @@
-### Hi there 👋
+# 🤖 Ashutosh Anand
 
-<!--
-**aliciacilmora/aliciacilmora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Cyber-Security Enthusiast`**
 
-Here are some ideas to get you started:
+I'm Ashutosh, a passionate individual deeply immersed in the world of cybersecurity and technology. My fascination with all things tech extends to my hobbyist pursuits in electronics, where I enjoy building everything from scratch. Whether diving into the intricacies of cybersecurity or crafting electronic projects, I thrive on the challenges and creativity these endeavors bring to my tech-driven world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Languages and Tools
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://icons8.com/icon/9MJf0ngDwS8z/bash" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+
+#
+
+### 📊 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aliciacilmora&show_icons=true&theme=gruvbox)
+
+
