@@ -10,7 +10,7 @@ A passionate individual deeply immersed in the world of cybersecurity and techno
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
-<img align="left" alt="GitHub" width="45px" style="padding-right:10px;" src="https://img.icons8.com/?size=80&id=LoL4bFzqmAa0&format=png" />
+<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=80&id=LoL4bFzqmAa0&format=png" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Go" width="50px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" />
 <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
