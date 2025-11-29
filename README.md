@@ -18,7 +18,7 @@ A passionate individual deeply immersed in the world of cybersecurity and techno
 ---
 
 ### 📊 Stats
-[![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliciacilmora)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliciacilmora&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliciacilmora&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 
 
