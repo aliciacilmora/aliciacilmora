@@ -18,7 +18,7 @@ A passionate individual deeply immersed in the world of cybersecurity and techno
 ---
 
 ### 📊 Stats
-![Ashutosh's GitHub stats]([![GitHub Streak](https://streak-stats.demolab.com/?user=aliciacilmora&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aliciacilmora&theme=dark)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliciacilmora&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 
 
